@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[97367,["/eko-site/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/eko-site/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+8:I[97367,["/eko-site/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+a:I[39756,["/eko-site/_next/static/chunks/3fntmmi971322.js"],"default"]
+b:I[37457,["/eko-site/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:X
+d:X
+d:C
+0:{"buildId":"TWdnSVi3CK2JH3vvJjZx7","data":[{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto max-w-3xl px-4 py-14 text-center","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight md:text-4xl","children":"Télécharger EKO"}],["$","p",null,{"className":"mx-auto mt-2 max-w-xl text-black/70","children":"L’application mobile est la porte d’entrée : créez votre compte, renseignez votre compagnie, votre tableau de bord vous attend."}],["$","div",null,{"className":"mt-8 grid gap-4 md:grid-cols-2","children":[["$","a",null,{"href":"#","className":"rounded-xl border border-black/10 bg-white p-6 hover:bg-black/5","aria-label":"Télécharger sur Google Play (lien à venir)","children":[["$","p",null,{"className":"font-bold","children":"Google Play"}],["$","p",null,{"className":"mt-1 text-sm text-black/60","children":"Android — lien store à venir"}]]}],["$","a",null,{"href":"#","className":"rounded-xl border border-black/10 bg-white p-6 hover:bg-black/5","aria-label":"Télécharger sur l’App Store (lien à venir)","children":[["$","p",null,{"className":"font-bold","children":"App Store"}],["$","p",null,{"className":"mt-1 text-sm text-black/60","children":"iOS — lien store à venir"}]]}]]}],["$","p",null,{"className":"mt-6 text-sm text-black/60","children":["Déjà installé ?"," ",["$","a",null,{"href":"/connexion","className":"font-semibold text-marque hover:text-marque-fonce","children":"Se connecter sur le web"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Télécharger — EKO"}],["$","meta","1",{"name":"description","content":"Téléchargez EKO sur mobile : suivez vos entrées, sorties, clients et TPU."}],["$","meta","2",{"property":"og:title","content":"Télécharger — EKO"}],["$","meta","3",{"property":"og:description","content":"Téléchargez EKO sur mobile : suivez vos entrées, sorties, clients et TPU."}],["$","meta","4",{"property":"og:site_name","content":"EKO"}],["$","meta","5",{"property":"og:locale","content":"fr_SN"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Télécharger — EKO"}],["$","meta","9",{"name":"twitter:description","content":"Téléchargez EKO sur mobile : suivez vos entrées, sorties, clients et TPU."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@9","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"isPartial":"$@c","staleTime":"$6","varyParams":"$d"}],"isUpgradeableISRFallback":false,"a":"$@e","rootVaryParams":null,"needsRuntimeRequest":"$@f"}
+4:null
+f:true
+6:300
+6:C
+e:0
+9:"$undefined"
+c:"$undefined"
+5:"$undefined"

@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[97367,["/eko-site/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/eko-site/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+8:I[97367,["/eko-site/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+a:I[39756,["/eko-site/_next/static/chunks/3fntmmi971322.js"],"default"]
+b:I[37457,["/eko-site/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:X
+d:X
+d:C
+0:{"buildId":"TWdnSVi3CK2JH3vvJjZx7","data":[{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto max-w-3xl px-4 py-14","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight","children":"Mentions légales"}],["$","div",null,{"className":"mt-4 space-y-4 text-sm text-black/80","children":[["$","p",null,{"children":"Éditeur : EKO — solution de gestion comptable et commerciale pour artisans (Sénégal, Togo). Coordonnées complètes à compléter avant mise en production (raison sociale, adresse, contact)."}],["$","p",null,{"children":"Hébergement : informations de l’hébergeur à compléter avant mise en production."}],["$","h2",null,{"className":"pt-2 text-lg font-bold","children":"Données personnelles"}],["$","p",null,{"children":["Les demandes de suppression sans connexion passent par la page"," ",["$","a",null,{"href":"/suppression-donnees","className":"font-semibold text-marque hover:text-marque-fonce","children":"Suppression de mes données"}],". Les utilisateurs connectés peuvent supprimer leur compte depuis les paramètres (ART-ID-07)."]}],["$","h2",null,{"className":"pt-2 text-lg font-bold","children":"Propriété intellectuelle"}],["$","p",null,{"children":"L’ensemble des contenus (textes, visuels, marques) est protégé. Toute reproduction sans autorisation est interdite."}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mentions légales — EKO"}],["$","meta","1",{"name":"description","content":"Mentions légales du site EKO."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","meta","3",{"property":"og:title","content":"Mentions légales — EKO"}],["$","meta","4",{"property":"og:description","content":"Mentions légales du site EKO."}],["$","meta","5",{"property":"og:site_name","content":"EKO"}],["$","meta","6",{"property":"og:locale","content":"fr_SN"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"Mentions légales — EKO"}],["$","meta","10",{"name":"twitter:description","content":"Mentions légales du site EKO."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@9","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"isPartial":"$@c","staleTime":"$6","varyParams":"$d"}],"isUpgradeableISRFallback":false,"a":"$@e","rootVaryParams":null,"needsRuntimeRequest":"$@f"}
+4:null
+f:true
+6:300
+6:C
+e:0
+9:"$undefined"
+c:"$undefined"
+5:"$undefined"
